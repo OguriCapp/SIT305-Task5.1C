@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NewsApp_224385035" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- 抹茶风格夜间配色 -->
+        <item name="colorPrimary">@color/matcha_accent</item>
+        <item name="colorPrimaryDark">@color/matcha_primary_dark</item>
+        <item name="colorAccent">@color/matcha_primary</item>
+        <item name="android:colorBackground">@color/matcha_text_primary</item>
+        <item name="android:textColorPrimary">@color/matcha_light</item>
+        <item name="android:textColorSecondary">@color/matcha_accent</item>
+        <item name="android:divider">@color/matcha_primary_dark</item>
+        <item name="android:windowBackground">@color/matcha_text_primary</item>
+        <item name="android:navigationBarColor">@color/matcha_text_primary</item>
+        <item name="android:statusBarColor">@color/matcha_text_primary</item>
+    </style>
+</resources>

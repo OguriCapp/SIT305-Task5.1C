@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="matcha_primary">#80B77E</color>       
+    <color name="matcha_primary_dark">#3C5C3A</color>    
+    <color name="matcha_accent">#B7D1B6</color>         
+    <color name="matcha_light">#EDF5ED</color>         
+    <color name="matcha_text_primary">#2B4129</color>   
+    <color name="matcha_text_secondary">#5A6B58</color> 
+    <color name="matcha_divider">#C9DDC8</color>        
+</resources>
